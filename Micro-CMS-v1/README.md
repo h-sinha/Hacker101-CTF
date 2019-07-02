@@ -1,7 +1,7 @@
 # Micro-CMS v1
 ### Flag 0
 * Create a new page
-* The url for new page is [http://35.227.24.107/<instance-hash>/page/14]() while the first 2 pages had page numbers 1 and 2
+* The url for new page is [http://35.227.24.107/\<instance-hash>/page/14]() while the first 2 pages had page numbers 1 and 2
 * Try all page numbers from 3-13. Pages 3, 4, 5 give 404 error while page 6 gives 403 Forbidden error.
 * Open page 6 for editing to get the flag.
 
