@@ -1,5 +1,5 @@
 # Micro-CMS v2
-Flag 1
+### Flag 0
 * Using '<:;>" as username and password produces the following error
 ```
  Traceback (most recent call last):
