@@ -12,7 +12,7 @@
 
 ### Flag 3
 * One of the username was user
-* Use Intruder in burp suite for attack. Use *user* as Username and password from [password.txt](../password.txt) which contains a list of 10000 most commonly used passwords
+* Use Intruder in burp suite for attack. Use *user* as Username and password from [password.txt](https://github.com/h-sinha/Hacker101-CTF/tree/master/Postbook) which contains a list of 10000 most commonly used passwords
 * Using *password* as password gives 302 response which means that we have successfully logged in
 * Use this for logging in and get the flag
 
