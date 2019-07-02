@@ -1,5 +1,5 @@
 # Petshop Pro
-### Flag 1 
+### Flag 0
 * Add a few items to cart
 * Visit the checkout page 
 * Open page source
