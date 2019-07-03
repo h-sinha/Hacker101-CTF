@@ -15,7 +15,9 @@ ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual
 * Open the private page to get the flag
 
 ### Flag 1
-
+* Editing post requires user to login. So try to edit post without logging in.
+* Send a POST request to edit the post using curl or Burp repeater.
+* The response contains the flag
 
 ### Flag 2
 * Use *' OR password like %x#* as username and attack using Burp Intruder. Change x from a-z and filter out all responses that contain *Unknown User* in the response. This would leave only 1 response which contains *Invalid Password* in the reponse. This is the last character of the password.
